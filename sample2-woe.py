@@ -15,7 +15,7 @@ def main() -> None:
     """
     Main function to execute the greeting.
     """
-    name = "World"
+    name = "All"
     message = greet(name)
     print(message)
 
