@@ -10,6 +10,7 @@ permissions:
 
 jobs:
   darker-ruff-lint:
-    uses: solvers-camp/.github/.github/workflows/lint-with-darker-ruff.yml@main
+    uses: Thilaga-26/.github-repo/.github/workflows/lint-with-darker-ruff.yml@main
+    # uses: solvers-camp/.github/.github/workflows/lint-with-darker-ruff.yml@main
     # uses: vyos/.github/.github/workflows/lint-with-darker-ruff.yml@current
     secrets: inherit
