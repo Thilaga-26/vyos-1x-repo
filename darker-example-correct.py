@@ -1,5 +1,5 @@
 def greet(name: str) -> str:
-    """Return a greeting message."""
+    """Return a greeting messages."""
     return f"Hello, {name}!"
 
 if __name__ == "__main__":
